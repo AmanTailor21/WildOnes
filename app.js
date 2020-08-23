@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-app.get('/', (req, res) => res.sendfile("index.html"))
+app.get('/', (req, res) => res.sendfile('index.html'))
 
 // Configure server 
 const port = process.env.PORT || 3000
