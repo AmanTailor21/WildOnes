@@ -1,22 +1,18 @@
 {
-    "name": "my_package",
-    "description": "",
+    "name": "MyNodeApp",
     "version": "1.0.0",
-    "main": "index.html",
+    "description": "The node api for retrofit",
+    "main": "app.js",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.17.1"
+    },
+    "devDependencies": {},
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AmanTailor21/WildOnes.git"
-      
-    },
-
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/AmanTailor21/"
-    },
-    "homepage": "https://github.com/AmanTailor21/WildOnes/blob/master/index.html"
+    "repository": {},
+    "author": "Smartherd",
+    "license": "ISC"
 }
