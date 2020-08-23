@@ -1,3 +1,4 @@
+  
 {
     "name": "MyNodeApp",
     "version": "1.0.0",
@@ -10,7 +11,7 @@
     "devDependencies": {},
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node index.html"
+        "start": "node app.js"
     },
     "repository": {},
     "author": "Smartherd",
