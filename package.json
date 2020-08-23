@@ -10,5 +10,13 @@
       "type": "git",
       "url": "https://github.com/AmanTailor21/WildOnes.git"
       
-    }
+    },
+
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/AmanTailor21/"
+    },
+    "homepage": "https://github.com/AmanTailor21/WildOnes/blob/master/index.html"
 }
